@@ -24,9 +24,11 @@
 <a href="https://github.com/luizhenriquecc/gm_veiculos" target="_blank">
     <img src=https://img.shields.io/badge/gm_veiculos-black?style=for-the-badge&logo=django alt=agenclean/>
 </a>
+<br>
 <a href="https://github.com/luizhenriquecc/invader" target="_blank">
     <img src=https://img.shields.io/badge/invader-black?style=for-the-badge&logo=bootstrap alt=agenclean/>
 </a>
+<br>
 <a href="https://github.com/luizhenriquecc/habil_website" target="_blank">
     <img src=https://img.shields.io/badge/habil-black?style=for-the-badge&logo=bootstrap alt=agenclean/>
 </a>
@@ -36,14 +38,10 @@
 <a href="https://github.com/luizhenriquecc/agenclean" target="_blank">
     <img src=https://img.shields.io/badge/agenclean-black?style=for-the-badge&logo=flutter alt=agenclean/>
 </a>
-
+<br>
 <a href="https://github.com/luizhenriquecc/econol" target="_blank">
     <img src=https://img.shields.io/badge/econol-black?style=for-the-badge&logo=flutter alt=agenclean/>
 </a>
-
----
-
-<details>
 
 ---
 
@@ -81,5 +79,3 @@
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 
 ---
-
-</details>
