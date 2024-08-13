@@ -5,7 +5,6 @@
 </p>
 
 <br>
-<br>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/luizhenriqueccarvalho/" target="_blank">
